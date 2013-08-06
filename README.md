@@ -2,7 +2,9 @@ fork from https://github.com/JakeWharton/ActionBarSherlock
 ----------------------------------------------------------
 
 Original
-========ActionBarSherlock=================
+=================
+ActionBarSherlock
+=================
 
 ActionBarSherlock is an standalone library designed to facilitate the use of
 the action bar design pattern across all versions of Android through a single
